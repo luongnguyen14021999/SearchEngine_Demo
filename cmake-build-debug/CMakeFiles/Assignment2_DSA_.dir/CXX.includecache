@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/AVL_ADT.h
+
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/main.cpp
+iomanip
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+cmath
+-
+list
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/list
+queue
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/queue
+map
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/map
+vector
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/vector
+AVL_ADT.h
+/Users/luongnguyendinh1999gmail.com/CLionProjects/Assignment2(DSA)/AVL_ADT.h
+
